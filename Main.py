@@ -65,4 +65,3 @@ for i in range(len(operations)):
         result.append(obj.delete_at_index(data[i]))
 
 print(result)
-
